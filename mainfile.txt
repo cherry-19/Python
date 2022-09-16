@@ -2,3 +2,8 @@ import datetime
 x = datetime.datetime.now()
 print(x.month)
 print(x.year)
+
+#module --> 
+import math 
+print(math.sin(1))
+print(math.pi)
